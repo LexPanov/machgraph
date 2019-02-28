@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/glad.c.o CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/ShaderProgram.cpp.o  -o main /usr/local/lib/libglfw3.a -lrt -ldl /usr/lib/x86_64-linux-gnu/librt.so -lm /usr/lib/x86_64-linux-gnu/libX11.so -lpthread -ldl 

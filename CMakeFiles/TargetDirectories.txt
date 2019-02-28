@@ -1,0 +1,3 @@
+/home/lexpanov/msu/04_sample1/CMakeFiles/rebuild_cache.dir
+/home/lexpanov/msu/04_sample1/CMakeFiles/main.dir
+/home/lexpanov/msu/04_sample1/CMakeFiles/edit_cache.dir
